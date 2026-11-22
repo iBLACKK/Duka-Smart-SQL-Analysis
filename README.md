@@ -117,6 +117,34 @@ Varying product popularity for different customer segments calls for tailored ma
 
 ## Conclusion
 
-Overall, the analysis highlighted how the business was performing with regards to revenue, profits, and costs. It also provided insights that can help the business make informed decisions with regards to marketing, pricing, and customer retention.  
+Overall, the analysis highlighted how the business was performing with regards to revenue, profits, and costs. It also provided insights that can help the business make informed decisions with regards to marketing, pricing, and customer retention. 
+
+## Files Included
+
+|File| Description|
+|----|-------------|
+|duka-smart-analysis.sql| sql file containing scripts for table creation and analysis|
+|customers-snippet.PNG| a snippet of the customers table|
+|orders-snippet.PNG| a snippet of the orders table|
+|lowest-revenue-months.PNG| image showing months with the lowest revenue|
+|popular-categories-VIP.PNG| image showing most popular product categories among VIP customers|
+|popular-categories-retail.PNG| image showing most popular product categories among retail customers|
+|top-categories.PNG| image showing top 5 product categories in terms of revenue generation|
+|top-products.PNG| image showing top 5 products in terms of revenue generation|
+|top-customers.PNG| image showing top 5 customers generating the highest revenue|
+|README.md| markdown file providing project overview|
+
+## How to Navigate
+
+1. Download the [sql file](duka-smart-analysis.sql)
+2. Run queries
+
+## Tools and Language Used
+- PostgreSQL
+- DBeaver
+- SQL
+
+
+
 
 
